@@ -1,0 +1,23 @@
+{
+  "name": "noter-backend",
+  "version": "1.0.0",
+  "description": "Noter The Notebook on cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyrunner360/MERN-noter-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyrunner360/MERN-noter-backend/issues"
+  },
+  "homepage": "https://github.com/skyrunner360/MERN-noter-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.3"
+  }
+}
